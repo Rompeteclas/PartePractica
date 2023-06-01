@@ -1,0 +1,26 @@
+ 429  mkdir Actividades
+  430  cd avtividades
+  431  cd Actividades
+  432  mkdir "Deportes de equipo"
+  433  mkdir "Deportes acuaticos"
+  434  mkdir "Deportes extremos"
+  435  mkdir "Deportes de mesa"
+  436  mkdir "Deportes mentales"
+  437  touch "Deportes de equipo"/Basquet
+  438  touch "Deportes mentales"/Ajedrez.txt
+  439  touch "Deportes de mesa"/"Ping pong"
+  440  ls -R
+  441  ls
+  442  rm -r "Deportes extremos"
+  443  pwd
+  444  dit add .
+  445  git add .
+  446  git init
+  447  git add .
+  448  git branch -M main
+  449  git add .
+  450  git commit -m "Primer commit"
+  451  git remote add origin https://github.com/Rompeteclas/PartePractica.git
+  452  git push -u origin main
+  453  touch comandos.txt
+  454  history
